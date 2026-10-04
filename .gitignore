@@ -1,1 +1,5 @@
 .ipynb_checkpoints/
+
+# Exclure tous les fichiers de données brutes et traitées
+data/raw/*
+data/processed/*
