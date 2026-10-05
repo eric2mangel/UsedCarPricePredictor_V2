@@ -30,8 +30,9 @@ jupyter notebook
 ## Technologies utilisées 🛠️
 - Python 3.12.10
 - Pandas, NumPy, Matplotlib, Seaborn (EDA)
-- Scikit-Learn (modélisation classique)
-- TensorFlow/Keras (TF-IDF)
+- Scikit-Learn (modélisation classique et TF-IDF)
+- LightGBM, XGBoost (modèles d'ensemble / Gradient Boosting)
+- SHAP (explicabilité du modèle)
 
 ## Contributeurs 👥
 - **Eric2Mangel** - [GitHub](https://github.com/eric2mangel)
