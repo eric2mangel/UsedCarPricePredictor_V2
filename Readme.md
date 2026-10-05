@@ -1,7 +1,7 @@
 # Used Car Price Predictor
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)
 
 ## Description 📌
@@ -28,7 +28,7 @@ jupyter notebook
 ```
 
 ## Technologies utilisées 🛠️
-- Python 3.10.6
+- Python 3.12.10
 - Pandas, NumPy, Matplotlib, Seaborn (EDA)
 - Scikit-Learn (modélisation classique)
 - TensorFlow/Keras (TF-IDF)
